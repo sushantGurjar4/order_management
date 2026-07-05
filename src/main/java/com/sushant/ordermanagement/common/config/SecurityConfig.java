@@ -23,6 +23,7 @@ public class SecurityConfig {
                                 "/api/products/**",
                                 "/api/inventory/**",
                                 "/api/customers/**",
+                                "/api/auth/login/google",
                                 "/swagger-ui.html",
                                 "/swagger-ui/**",
                                 "/v3/api-docs/**"
